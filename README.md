@@ -1,6 +1,6 @@
 ## Hi, I'm Michael 👋
 
-🌱 I’m looking to collaborate on any graphic design work and web development projects.
+🌱 I’m looking to collaborate on any graphic design work and web development projects.<br>
 📫 Want to reach me? Email me at michael12darko@gmail.com
 
 # 💻 Tech Stack:
